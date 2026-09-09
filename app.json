@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "हिंदुस्तानी टॅक्सी",
+    "slug": "hindustani-taxi",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "hindustani-taxi",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router", "@react-native-vector-icons/material-design-icons"],
+    "android": {
+      "package": "com.hindustan.taxidemo"
+    },
+    "ios": {
+      "bundleIdentifier": "com.hindustan.taxidemo"
+    }
+  }
+}

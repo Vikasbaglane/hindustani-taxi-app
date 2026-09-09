@@ -1,0 +1,10 @@
+{
+  "theme": {
+    "primary": "#F5B400",
+    "background": "#FFF8E7",
+    "dark": "#171717",
+    "surface": "#FFFFFF",
+    "text": "#222222",
+    "muted": "#777777"
+  }
+}
